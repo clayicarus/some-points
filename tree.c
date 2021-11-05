@@ -1,6 +1,5 @@
 #include"tree.h"
 #include<string.h>
-#include<stdio.h>
 #include<stdlib.h>
 
 /* *p_node not empty
